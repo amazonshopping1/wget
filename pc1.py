@@ -118,7 +118,7 @@ except ModuleNotFoundError:
 
 
 # Global variables
-MINER_VER = "2.6.1"  # Version number
+MINER_VER = "2.6"  # Version number
 NODE_ADDRESS = "server.duinocoin.com"
 AVAILABLE_PORTS = [
     2813,  # PC (1)
